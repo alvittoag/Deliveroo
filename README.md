@@ -1,1 +1,3 @@
-# Deliveroo - My First React Native App 😄
+# Deliveroo - My First Mobile App 😄
+
+`Technologi : Expo,React Native, Tailwind`
